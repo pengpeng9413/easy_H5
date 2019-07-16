@@ -1,0 +1,29 @@
+{
+  "name": "easy_h5",
+  "version": "1.0.0",
+  "description": "简单的站点page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengpeng9413/easy_H5.git"
+  },
+  "author": "xxp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengpeng9413/easy_H5/issues"
+  },
+  "homepage": "https://github.com/pengpeng9413/easy_H5#readme",
+  "devDependencies": {
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "dependencies": {
+    "antd": "^3.20.3",
+    "lodash": "^4.17.14"
+  }
+}
